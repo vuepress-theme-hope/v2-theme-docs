@@ -1,0 +1,1 @@
+import{$ as o,U as c,a0 as s,X as e,a9 as t}from"./framework-3a3055b3.js";const n={},r=e("p",null,[t("如果你的网站是一个纯文档站点，并且你更喜欢干净的样式，你可以在主题选项中设置 "),e("code",null,"pure: true"),t(" 启用纯净模式。")],-1),_=e("p",null,"在这个模式下，我们会禁用一些花哨的动画以及一些色彩，只提供功能。",-1),a=[r,_];function l(u,d){return c(),s("div",null,a)}const i=o(n,[["render",l],["__file","pure.html.vue"]]);export{i as default};
