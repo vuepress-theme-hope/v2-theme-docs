@@ -1,0 +1,1 @@
+import{N as e}from"./NetlifyBadge-885f513a.js";import{d as t,o as a,c as n,a as o,u as r,_ as s}from"./app-25dbeecb.js";const _=t({__name:"index.html",setup(l){return(c,i)=>(a(),n("div",null,[o(r(e),{alt:"通过 Netlify 部署"})]))}}),d=s(_,[["__file","index.html.vue"]]);export{d as default};
