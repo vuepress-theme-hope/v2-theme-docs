@@ -1,0 +1,1 @@
+import{N as e}from"./NetlifyBadge-885f513a.js";import{d as t,o as a,c as n,a as o,u as r,_ as s}from"./app-25dbeecb.js";const _=t({__name:"index.html",setup(c){return(l,m)=>(a(),n("div",null,[o(r(e))]))}}),f=s(_,[["__file","index.html.vue"]]);export{f as default};
