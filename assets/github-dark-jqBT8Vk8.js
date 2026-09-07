@@ -1,0 +1,1 @@
+var e=`/assets/image/github-light.svg`,t=`/assets/image/github-dark.svg`;export{e as n,t};

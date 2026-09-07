@@ -1,0 +1,1 @@
+var e=`/favicon.ico`;export{e as t};
